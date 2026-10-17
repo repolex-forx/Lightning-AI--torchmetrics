@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Lightning-AI/torchmetrics/commit/6c551c6469dc04fe92291c000ce2607860df92d2",
       "git:hexsha": "6c551c6469dc04fe92291c000ce2607860df92d2",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T08:26:00.078283+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Lightning-AI/torchmetrics/commit/b75ccc1346fe4bf5fecc6f5e4a07434d07a5a62b",
