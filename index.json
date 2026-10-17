@@ -1,0 +1,11 @@
+{
+  "org": "Lightning-AI",
+  "repo": "torchmetrics",
+  "versions": [
+    {
+      "commit": "6c551c6469dc04fe92291c000ce2607860df92d2",
+      "tag": "",
+      "parsed_at": "2026-10-17T08:26:00.078904+00:00"
+    }
+  ]
+}
